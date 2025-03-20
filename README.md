@@ -14,8 +14,7 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 💻 **Back-end**: Django, Django REST Framework, MySQL, PostgreSQL  
-🌐 **Front-end**: React, JavaScript, Styled Components  
-🐳 **DevOps**: Docker, PythonAnywhere  
+🌐 **Front-end**: React, JavaScript, TypeScript, Styled Components
 🛠️ **Ferramentas**: VS Code, Git, GitHub, Postman
 
 ---
