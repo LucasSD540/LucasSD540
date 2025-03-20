@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]!
+# 👋 Olá, eu sou o Lucas!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-souza-duarte/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:lucas.souzaduarte.73@gmail.com)
