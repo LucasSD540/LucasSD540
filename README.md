@@ -21,7 +21,7 @@
 
 ## 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSD540&show_icons=true&theme=radical)
 
 📈 Veja meus repositórios e contribuições no GitHub!
 
