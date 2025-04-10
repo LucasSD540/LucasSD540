@@ -22,6 +22,7 @@
 ## 📊 Estatísticas
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSD540&show_icons=true&theme=radical)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AssisZera&layout=compact" />
 
 📈 Veja meus repositórios e contribuições no GitHub!
 
